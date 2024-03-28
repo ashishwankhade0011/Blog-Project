@@ -15,7 +15,8 @@ Thus, it will help organization in better utilization of resources. The organiza
 without redundant entries. That means that one  need  not  be  distracted  by  information  that  is  not  relevant, 
 while  being  able  to  reach  the information.
 
-#Functionalities provided by Blog Project:
+# Functionalities provided by Blog Project:
+
 1.Provides the post viewing facility for everyone. 
 2.Blog System also manage the Content details online for Entries details, Views details, Blogs. 
 3.To increase efficiency of managing the Blogs, Topics. 
