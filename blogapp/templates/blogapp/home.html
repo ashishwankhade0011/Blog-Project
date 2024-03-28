@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% load crispy_forms_tags %}
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>Blog-list</title>
+    <style>
+      body {
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnbrjxu2jF25BCYgebzaweELmyPMuEVpo3w&s');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+      </style>
+      
+    
+  </head>
+  <body>
+    <!-- Just an image -->
+    <nav class="navbar navbar-light" style="background-color: #7cb8cb;"> 
+     <a class="navbar-brand" href="#"> 
+      <center><h1 style="text-align: center; font-family: monospace; color:black"> Online Blogging</h1></center>
+      </a> 
+      
+      <div>
+        <a href="/login/" class="btn btn-primary">login</a>
+        <a href="/logout/" class="btn btn-danger">logout</a>
+        
+
+      </div> 
+    </nav>
+    <div class="container"> 
+      
+        <!-- <h1 style="text-align: center; font-family: monospace; color:black"> Online Blogging</h1>
+        <div><a href="/logout/" class="btn btn-danger">Logout</a></div> -->
+        <!-- <div class="jumbotron"> -->
+        <hr>
+        
+        <img src=" https://www.searchenginejournal.com/wp-content/uploads/2020/08/7-ways-a-blog-can-help-your-business-right-now-5f3c06b9eb24e-1280x720.png" width="200" height="200" alt="" >&nbsp;&nbsp;
+        <p>A typical blog combines text, digital images, and links to other blogs, web pages, and other media related to its topic. Most blogs are primarily textual, although some focus on art (art blogs), photographs (photoblogs), videos (video blogs or "vlogs"), music (MP3 blogs), and audio (podcasts).
+            Many people look for ways to expand their online presence and while one of the most popular strategies is launching a blog, not everyone knows what is a blog and how to start one.
+When blogs first emerged around 1994, people used them mainly to share their personal lives, including their experiences and interests. Now, blogs have become an essential online marketing strategy for businesses and one of the most profitable career choices for individuals.
+
+The interface of blogs has changed significantly over time. Bloggers can now integrate various widgets and plugins into their platforms, such as a social media feed, a contact form, or an author profile.
+
+In this article, you’ll learn what makes a blog different from a regular website. We’ll also discuss common blog types and the necessary components such as a hosting plan to start your own blog.
+        </p>
+        <p>
+What Is a Blog Used For?
+        </p>
+        <p>
+When blogs first appeared on the world wide web, their goal was mainly personal use, such as sharing stories, interests, and thoughts. 
+        </p>
+        
+
+        <div class="container"> 
+        <h6> Want to add Blog/Article?
+          <a href="/blogs/add/" class="btn btn-primary">Add-Blog</a>
+        </h6>
+        <h6> Want to see Blog/Article?
+        <a href="/blogs/list/" class="btn btn-primary">Blog-List</a>
+        </h6>
+        <hr>
+        <center><h4> New Register?
+          <a href="/blogs/register/" class="btn btn-primary">New Registration</a>
+        </h4>
+      </center>
+      <hr>
+        
+
+    
+
+        
+
+        <!-- {% for x in data %}
+        <h2><a href="/blogs/detail/{{x.id}}/"> {{x.title}}</a></h2>
+        <hr>
+        {% endfor %}
+      </div> -->
+
+    </div>
+    
+    
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
