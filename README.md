@@ -28,8 +28,7 @@ while  being  able  to  reach  the information.
 
 This Blog Project is created with the help of Python, Django, Sqlite3 as a default database and for designing HTML and Bootstrap.
 
-
-![blog image](https://github.com/ashishwankhade0011/Blog-Project/assets/160989632/199fc82f-dca9-4df6-83ff-64e830d9b7e8)
+![Screenshot 2024-03-28 131243](https://github.com/ashishwankhade0011/Blog-Project/assets/160989632/2247ad7b-ef89-4c22-bc81-9eb223c493b5)
 
 ![Screenshot 2024-03-28 122716](https://github.com/ashishwankhade0011/Blog-Project/assets/160989632/d0f85dd2-8b23-4029-a6ac-7ccf05aa5bc8)
 
@@ -41,7 +40,7 @@ This Blog Project is created with the help of Python, Django, Sqlite3 as a defau
 
 ![Screenshot 2024-03-28 122852](https://github.com/ashishwankhade0011/Blog-Project/assets/160989632/f296a31c-571d-4b68-9bac-7baf6a9bb756)
 
-![Screenshot 2024-03-28 131243](https://github.com/ashishwankhade0011/Blog-Project/assets/160989632/2247ad7b-ef89-4c22-bc81-9eb223c493b5)
+
 
 
 
