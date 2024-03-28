@@ -18,9 +18,13 @@ while  being  able  to  reach  the information.
 # Functionalities provided by Blog Project:
 
 1.Provides the post viewing facility for everyone. 
+
 2.Blog System also manage the Content details online for Entries details, Views details, Blogs. 
+
 3.To increase efficiency of managing the Blogs, Topics. 
+
 4.Editing, adding, posting and updating records.
+
 
 This Blog Project is created with the help of Python, Django, Sqlite3 as a default database and for designing HTML and Bootstrap.
 
